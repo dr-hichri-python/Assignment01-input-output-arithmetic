@@ -1,4 +1,4 @@
-# Coding Assignment: [Assignment Title]
+# Assignment01 input,output, and arithmetic
 
 Welcome to the coding assignment! This repository contains the assignment notebook and instructions for submission and peer review.
 
